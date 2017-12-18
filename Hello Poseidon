@@ -1,0 +1,28 @@
+Sample app HelloPoseidon
+app.manifest.json
+The manifest file is used by the Poseidon Module Installer to register the new module in the DB.
+{
+
+  "name": "PoseidonApplication1",
+
+  "id": "2cfdf119-fbe3-40c7-b780-3fdb90df87fb",
+
+  "version": "1.0.0",
+
+  "isApplication": true,
+
+  "dependencies": [],
+
+  "root": "PoseidonApplication1/",
+
+  "files": [
+
+    "*.css",
+
+    "*.module.js",
+
+    "*.js"
+
+  ]
+
+}
