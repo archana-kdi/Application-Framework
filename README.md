@@ -7,10 +7,14 @@ After creating an empty kognifai application framework App based on the Poseidon
 
  To create a sample app, you need to create following files:
 
- 1- app.manifest.json 
+ 1- app.manifest.json
+ 
  2- app.module.js
+
  3- mainController.js 
+
  4- mainView.html programe
+
  5- Web.config
  
  
